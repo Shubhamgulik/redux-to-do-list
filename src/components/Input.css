@@ -1,6 +1,6 @@
 .input {
   height: 50px;
-  width: 100%;
+  width: 85%;
   border-radius: 12px;
   background-color: white;
   display: flex;
@@ -11,6 +11,7 @@ input {
   background-color: none;
   border: none;
   margin-left: 12px;
+
   flex: 1;
 }
 input:focus {
